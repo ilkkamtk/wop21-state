@@ -1,1 +1,3 @@
-# wop21-state
+# wop-starters
+
+Choose a branch and download as zip.
